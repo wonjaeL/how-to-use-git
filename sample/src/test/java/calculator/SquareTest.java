@@ -10,6 +10,6 @@ public class SquareTest {
         Assert.assertEquals(Square.run(3), 9);
         Assert.assertEquals(Square.run(6), 36);
         Assert.assertEquals(Square.run(9), 81);
-        Assert.assertEquals(Square.run(20), 40);
+        Assert.assertEquals(Square.run(20), 400);
     }
 }
