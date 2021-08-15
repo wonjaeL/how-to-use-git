@@ -2,6 +2,6 @@ package calculator;
 
 public class Add {
     public static int run(int a, int b) {
-        return 0;
+        return a+b;
     }
 }
